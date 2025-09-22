@@ -19,8 +19,7 @@ The site is built with **HTML5, CSS3, and JavaScript**, ensuring a **responsive 
 ├── about.html        # About page
 ├── projects.html     # Projects page
 ├── contact.html      # Contact page
-├── PROJECT_DOCS.md   # Detailed project documentation
-└── README.md         # Assignment instructions
+└── README.md         # Detailed project documentation
 ```
 
 ---
