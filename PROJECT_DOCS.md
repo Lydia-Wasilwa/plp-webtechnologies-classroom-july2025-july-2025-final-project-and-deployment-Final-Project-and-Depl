@@ -1,4 +1,4 @@
-# 🌐 Lydia Wasilwa — Portfolio Website
+# 🌐 Portfolio Website
 
 This is my personal **portfolio website** showcasing my skills in **web development**, selected projects, and contact details.  
 The site is built with **HTML5, CSS3, and JavaScript**, ensuring a **responsive design** and engaging **interactivity**.
@@ -52,7 +52,7 @@ The site is built with **HTML5, CSS3, and JavaScript**, ensuring a **responsive 
 
 This project has been deployed on **Netlify**.  
 
-🔗 Live site URL: *[Add your deployment link here]*  
+🔗 Live site URL: *[lw-portfoliowebsite.netlify.app]*  
 
 ---
 
@@ -60,7 +60,7 @@ This project has been deployed on **Netlify**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Lydia-Wasilwa/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
    ```
 
 2. Navigate into the project directory:
