@@ -52,7 +52,7 @@ The site is built with **HTML5, CSS3, and JavaScript**, ensuring a **responsive 
 
 This project has been deployed on **Netlify**.  
 
-🔗 Live site URL: *[lw-portfoliowebsite.netlify.app]*  
+🔗 Live site URL: *[https://lw-portfoliowebsite.netlify.app/]*  
 
 ---
 
