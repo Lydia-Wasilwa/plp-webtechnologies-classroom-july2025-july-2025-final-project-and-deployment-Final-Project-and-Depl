@@ -23,9 +23,9 @@ body {
 
 .nav-links {
   display: flex;
-  justify-content: center;
   list-style: none;
-  padding: 1rem;
+  padding-bottom: 1rem;
+  justify-content: flex-end;
   gap: 1.5rem;
 }
 
